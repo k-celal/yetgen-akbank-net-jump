@@ -1,0 +1,14 @@
+C:\Users\Celal\source\repos\YetGenAkbankJump\Week_2_2MX\obj\Debug\net6.0\Week_2_2MX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Celal\source\repos\YetGenAkbankJump\Week_2_2MX\obj\Debug\net6.0\Week_2_2MX.AssemblyInfoInputs.cache
+C:\Users\Celal\source\repos\YetGenAkbankJump\Week_2_2MX\obj\Debug\net6.0\Week_2_2MX.AssemblyInfo.cs
+C:\Users\Celal\source\repos\YetGenAkbankJump\Week_2_2MX\obj\Debug\net6.0\Week_2_2MX.csproj.CoreCompileInputs.cache
+C:\Users\Celal\source\repos\YetGenAkbankJump\Week_2_2MX\bin\Debug\net6.0\Week_2_2MX.exe
+C:\Users\Celal\source\repos\YetGenAkbankJump\Week_2_2MX\bin\Debug\net6.0\Week_2_2MX.deps.json
+C:\Users\Celal\source\repos\YetGenAkbankJump\Week_2_2MX\bin\Debug\net6.0\Week_2_2MX.runtimeconfig.json
+C:\Users\Celal\source\repos\YetGenAkbankJump\Week_2_2MX\bin\Debug\net6.0\Week_2_2MX.dll
+C:\Users\Celal\source\repos\YetGenAkbankJump\Week_2_2MX\bin\Debug\net6.0\Week_2_2MX.pdb
+C:\Users\Celal\source\repos\YetGenAkbankJump\Week_2_2MX\obj\Debug\net6.0\Week_2_2MX.dll
+C:\Users\Celal\source\repos\YetGenAkbankJump\Week_2_2MX\obj\Debug\net6.0\refint\Week_2_2MX.dll
+C:\Users\Celal\source\repos\YetGenAkbankJump\Week_2_2MX\obj\Debug\net6.0\Week_2_2MX.pdb
+C:\Users\Celal\source\repos\YetGenAkbankJump\Week_2_2MX\obj\Debug\net6.0\Week_2_2MX.genruntimeconfig.cache
+C:\Users\Celal\source\repos\YetGenAkbankJump\Week_2_2MX\obj\Debug\net6.0\ref\Week_2_2MX.dll
