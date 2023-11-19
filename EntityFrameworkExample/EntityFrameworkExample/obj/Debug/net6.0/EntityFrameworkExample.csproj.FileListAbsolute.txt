@@ -1,4 +1,0 @@
-C:\Users\Celal\source\repos\MoodleOdev1\EntityFrameworkExample\EntityFrameworkExample\obj\Debug\net6.0\EntityFrameworkExample.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Celal\source\repos\MoodleOdev1\EntityFrameworkExample\EntityFrameworkExample\obj\Debug\net6.0\EntityFrameworkExample.AssemblyInfoInputs.cache
-C:\Users\Celal\source\repos\MoodleOdev1\EntityFrameworkExample\EntityFrameworkExample\obj\Debug\net6.0\EntityFrameworkExample.AssemblyInfo.cs
-C:\Users\Celal\source\repos\MoodleOdev1\EntityFrameworkExample\EntityFrameworkExample\obj\Debug\net6.0\EntityFrameworkExample.csproj.CoreCompileInputs.cache
