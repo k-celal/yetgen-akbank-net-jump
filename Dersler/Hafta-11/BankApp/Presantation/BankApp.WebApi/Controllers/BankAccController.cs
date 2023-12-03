@@ -23,14 +23,14 @@ namespace BankApp.WebApi.Controllers
             {
                 List<BankAcc> people = new()
             {
-                new BankAcc {Id=Guid.Parse("6B29FC40-CA47-1067-B31D-00DD010662DA"), CreatedOn = DateTime.UtcNow,
-                    CreatedByUserId="1", FirstName="Hasan",LastName="Deniz",PhoneNumber="5558529637"},
+                new BankAcc {Id=Guid.Parse("A1E90212-8CC6-4D0E-9A77-25D3D5F5A9C1"), CreatedOn = DateTime.UtcNow,
+                    CreatedByUserId="1", FirstName="Berkin",LastName="Dundar",PhoneNumber="5558529637"},
 
-                new BankAcc {Id=Guid.Parse("6B29FC40-CA47-1067-B31D-00DD010662DB"), CreatedOn = DateTime.UtcNow,
-                    CreatedByUserId="1", FirstName="Mehmet",LastName="Öz",PhoneNumber="5417418529"},
+                new BankAcc {Id=Guid.Parse("B2F8C478-A889-4BC0-8B1D-765FC21946D7"), CreatedOn = DateTime.UtcNow,
+                    CreatedByUserId="1", FirstName="Umut",LastName="Mercan",PhoneNumber="5417418529"},
 
-                new BankAcc {Id=Guid.Parse("6B29FC40-CA47-1067-B31D-00DD010662DC"), CreatedOn = DateTime.UtcNow,
-                    CreatedByUserId="1", FirstName="Ahmet",LastName="Cad",PhoneNumber="5329637418"}
+                new BankAcc {Id=Guid.Parse("C3D71A6F-4E16-48A2-B7F7-7B634D88E3BD"), CreatedOn = DateTime.UtcNow,
+                    CreatedByUserId="1", FirstName="Celal",LastName="Karahan",PhoneNumber="5329637418"}
             };
 
                 _bankAppDbContext.People.AddRange(people);
